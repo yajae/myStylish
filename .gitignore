@@ -1,0 +1,10 @@
+node_modules/
+dump.js
+.vscode/
+.env
+ex/
+ex.js
+example/
+key/
+app.js
+ex.html
